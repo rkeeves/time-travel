@@ -6,6 +6,8 @@ They are simple markdown files.
 
 Choose one of the adventures from below.
 
+_(They are just a bunch of markdown files, using relative links to represent transitions of the state machine. Clicking on the links should work with most editors/viewers.)_
+
 ## Loophole in time
 
 You get thrown into a forgotten underground facility.
