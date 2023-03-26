@@ -14,7 +14,7 @@ Odds and perimeter defenses are stacked against you.
 
 But how did you end up in this miserable place?
 
-[Start this adventure](./LASER/LASER-P-DXLXP0FX.md)
+[Start this adventure](./laser/LASER-P-DXLXP0FX.md)
 
 ## Inverted Invaders
 
@@ -32,4 +32,4 @@ The 'Red team' - with the intel from the 'Blue team' - knew exactly what to do b
 
 You were assigned to be part of the Blue Team.
 
-[Start this adventure](./SPACE/SPACE-0-X-A.md)
+[Start this adventure](./space/SPACE-0-X-A.md)
